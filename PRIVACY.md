@@ -31,10 +31,14 @@ Kullanıcılarımızın güvenliğine önem veriyoruz. Ancak, internet üzerinde
 
 ## 5. Çocukların Gizliliği
 Bu hizmet 13 yaşın altındaki (veya yerel yasalara göre geçerli yaş sınırı) çocuklara yönelik değildir. 13 yaşın altındaki bir çocuktan bilerek kişisel bilgi toplamıyoruz.
+## 6. Hesap Silme
+Hesabiniz uygulama icinden yaptiginiz islemler sonrasi kalici olarak silinir. Hesabinizla ilgili uygulama disindan da talepte bulunmak isterseniz asagidaki e-posta yoluyla iletisime gecebilirsiniz.
+**E-posta:** niyazibedripamukcu@gmail.com
 
-## 6. Değişiklikler
+
+## 7. Değişiklikler
 Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişiklik durumunda, yeni politikayı bu sayfada yayınlayarak sizi bilgilendireceğiz.
 
-## 7. İletişim
+## 8. İletişim
 Gizlilik politikamızla ilgili sorularınız veya önerileriniz varsa, bizimle iletişime geçmekten çekinmeyin:
-**E-posta:** niyazibedripamukcu.com
+**E-posta:** niyazibedripamukcu@gmail.com
